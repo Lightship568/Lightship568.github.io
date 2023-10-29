@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/10/08/bash%E7%BC%96%E7%A8%8B/</loc>
+    <loc>https://lightship568.github.io/2021/10/08/bash%E7%BC%96%E7%A8%8B/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/08/24/%E7%AE%80%E6%98%93%E6%B1%87%E7%BC%96%E5%85%A5%E9%97%A8/</loc>
+    <loc>https://lightship568.github.io/2021/08/24/%E7%AE%80%E6%98%93%E6%B1%87%E7%BC%96%E5%85%A5%E9%97%A8/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/08/23/OllyDBG%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C/</loc>
+    <loc>https://lightship568.github.io/2021/08/23/OllyDBG%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/09/23/Linux%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <loc>https://lightship568.github.io/2021/09/23/Linux%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/08/22/B%E7%AB%99404%E6%BC%AB%E7%94%BB%E7%88%AC%E8%99%AB/</loc>
+    <loc>https://lightship568.github.io/2021/08/22/B%E7%AB%99404%E6%BC%AB%E7%94%BB%E7%88%AC%E8%99%AB/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/08/23/IDA%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C/</loc>
+    <loc>https://lightship568.github.io/2021/08/23/IDA%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/09/12/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://lightship568.github.io/2021/09/12/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/</loc>
     
     <lastmod>2021-09-23</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/2021/08/29/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</loc>
+    <loc>https://lightship568.github.io/2021/08/29/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</loc>
     
     <lastmod>2021-09-10</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/about/index.html</loc>
+    <loc>https://lightship568.github.io/about/index.html</loc>
     
     <lastmod>2021-08-23</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/categories/index.html</loc>
+    <loc>https://lightship568.github.io/categories/index.html</loc>
     
     <lastmod>2021-08-23</lastmod>
     
@@ -93,7 +93,7 @@
   
 
   <url>
-    <loc>https://lightship568.github.io/blog</loc>
+    <loc>https://lightship568.github.io/</loc>
     <lastmod>2023-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -103,21 +103,21 @@
 
   
   <url>
-    <loc>https://lightship568.github.io/blog/categories/Fun/</loc>
+    <loc>https://lightship568.github.io/categories/Fun/</loc>
     <lastmod>2023-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/categories/Reverse/</loc>
+    <loc>https://lightship568.github.io/categories/Reverse/</loc>
     <lastmod>2023-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lightship568.github.io/blog/categories/Basic/</loc>
+    <loc>https://lightship568.github.io/categories/Basic/</loc>
     <lastmod>2023-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
