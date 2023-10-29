@@ -9,6 +9,6 @@ https://lightship568.github.io/blog/2021/08/29/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB
 https://lightship568.github.io/blog/about/index.html
 https://lightship568.github.io/blog/categories/index.html
 https://lightship568.github.io/blog
-https://lightship568.github.io/blog/categories/Reverse/
 https://lightship568.github.io/blog/categories/Fun/
+https://lightship568.github.io/blog/categories/Reverse/
 https://lightship568.github.io/blog/categories/Basic/
